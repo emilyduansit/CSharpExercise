@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Multiply corresponding elements of two arrays of integers/1.0.0": {
+        "runtime": {
+          "Multiply corresponding elements of two arrays of integers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiply corresponding elements of two arrays of integers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

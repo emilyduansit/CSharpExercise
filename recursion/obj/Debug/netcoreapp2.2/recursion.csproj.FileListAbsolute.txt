@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\recursion\bin\Debug\netcoreapp2.2\recursion.deps.json
+C:\Users\Emily\Source\C#\recursion\bin\Debug\netcoreapp2.2\recursion.runtimeconfig.json
+C:\Users\Emily\Source\C#\recursion\bin\Debug\netcoreapp2.2\recursion.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\recursion\bin\Debug\netcoreapp2.2\recursion.dll
+C:\Users\Emily\Source\C#\recursion\bin\Debug\netcoreapp2.2\recursion.pdb
+C:\Users\Emily\Source\C#\recursion\obj\Debug\netcoreapp2.2\recursion.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\recursion\obj\Debug\netcoreapp2.2\recursion.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\recursion\obj\Debug\netcoreapp2.2\recursion.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\recursion\obj\Debug\netcoreapp2.2\recursion.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\recursion\obj\Debug\netcoreapp2.2\recursion.dll
+C:\Users\Emily\Source\C#\recursion\obj\Debug\netcoreapp2.2\recursion.pdb

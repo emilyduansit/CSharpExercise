@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\Max and Min in three nums\bin\Debug\netcoreapp2.2\Max and Min in three nums.deps.json
+C:\Users\Emily\Source\C#\Max and Min in three nums\bin\Debug\netcoreapp2.2\Max and Min in three nums.runtimeconfig.json
+C:\Users\Emily\Source\C#\Max and Min in three nums\bin\Debug\netcoreapp2.2\Max and Min in three nums.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\Max and Min in three nums\bin\Debug\netcoreapp2.2\Max and Min in three nums.dll
+C:\Users\Emily\Source\C#\Max and Min in three nums\bin\Debug\netcoreapp2.2\Max and Min in three nums.pdb
+C:\Users\Emily\Source\C#\Max and Min in three nums\obj\Debug\netcoreapp2.2\Max and Min in three nums.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\Max and Min in three nums\obj\Debug\netcoreapp2.2\Max and Min in three nums.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\Max and Min in three nums\obj\Debug\netcoreapp2.2\Max and Min in three nums.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\Max and Min in three nums\obj\Debug\netcoreapp2.2\Max and Min in three nums.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\Max and Min in three nums\obj\Debug\netcoreapp2.2\Max and Min in three nums.dll
+C:\Users\Emily\Source\C#\Max and Min in three nums\obj\Debug\netcoreapp2.2\Max and Min in three nums.pdb

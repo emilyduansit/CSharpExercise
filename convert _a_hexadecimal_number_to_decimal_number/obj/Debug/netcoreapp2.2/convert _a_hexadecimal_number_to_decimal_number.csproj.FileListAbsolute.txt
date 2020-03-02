@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\bin\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.deps.json
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\bin\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.runtimeconfig.json
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\bin\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\bin\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.dll
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\bin\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.pdb
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\obj\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\obj\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\obj\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\obj\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\obj\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.dll
+C:\Users\Emily\Source\C#\convert _a_hexadecimal_number_to_decimal_number\obj\Debug\netcoreapp2.2\convert _a_hexadecimal_number_to_decimal_number.pdb

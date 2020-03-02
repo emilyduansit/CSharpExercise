@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>create_a_new_string_of_four_copies__taking_last_four_characters_from_a_given_string</RootNamespace>
+  </PropertyGroup>
+
+</Project>

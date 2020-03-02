@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\lambda\bin\Debug\netcoreapp2.2\lambda.deps.json
+C:\Users\Emily\Source\C#\lambda\bin\Debug\netcoreapp2.2\lambda.runtimeconfig.json
+C:\Users\Emily\Source\C#\lambda\bin\Debug\netcoreapp2.2\lambda.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\lambda\bin\Debug\netcoreapp2.2\lambda.dll
+C:\Users\Emily\Source\C#\lambda\bin\Debug\netcoreapp2.2\lambda.pdb
+C:\Users\Emily\Source\C#\lambda\obj\Debug\netcoreapp2.2\lambda.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\lambda\obj\Debug\netcoreapp2.2\lambda.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\lambda\obj\Debug\netcoreapp2.2\lambda.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\lambda\obj\Debug\netcoreapp2.2\lambda.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\lambda\obj\Debug\netcoreapp2.2\lambda.dll
+C:\Users\Emily\Source\C#\lambda\obj\Debug\netcoreapp2.2\lambda.pdb

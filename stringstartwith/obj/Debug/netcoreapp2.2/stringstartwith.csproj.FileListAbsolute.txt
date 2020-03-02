@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\stringstartwith\bin\Debug\netcoreapp2.2\stringstartwith.deps.json
+C:\Users\Emily\Source\C#\stringstartwith\bin\Debug\netcoreapp2.2\stringstartwith.runtimeconfig.json
+C:\Users\Emily\Source\C#\stringstartwith\bin\Debug\netcoreapp2.2\stringstartwith.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\stringstartwith\bin\Debug\netcoreapp2.2\stringstartwith.dll
+C:\Users\Emily\Source\C#\stringstartwith\bin\Debug\netcoreapp2.2\stringstartwith.pdb
+C:\Users\Emily\Source\C#\stringstartwith\obj\Debug\netcoreapp2.2\stringstartwith.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\stringstartwith\obj\Debug\netcoreapp2.2\stringstartwith.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\stringstartwith\obj\Debug\netcoreapp2.2\stringstartwith.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\stringstartwith\obj\Debug\netcoreapp2.2\stringstartwith.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\stringstartwith\obj\Debug\netcoreapp2.2\stringstartwith.dll
+C:\Users\Emily\Source\C#\stringstartwith\obj\Debug\netcoreapp2.2\stringstartwith.pdb

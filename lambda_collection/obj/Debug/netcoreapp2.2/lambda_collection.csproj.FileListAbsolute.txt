@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\lambda_collection\bin\Debug\netcoreapp2.2\lambda_collection.deps.json
+C:\Users\Emily\Source\C#\lambda_collection\bin\Debug\netcoreapp2.2\lambda_collection.runtimeconfig.json
+C:\Users\Emily\Source\C#\lambda_collection\bin\Debug\netcoreapp2.2\lambda_collection.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\lambda_collection\bin\Debug\netcoreapp2.2\lambda_collection.dll
+C:\Users\Emily\Source\C#\lambda_collection\bin\Debug\netcoreapp2.2\lambda_collection.pdb
+C:\Users\Emily\Source\C#\lambda_collection\obj\Debug\netcoreapp2.2\lambda_collection.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\lambda_collection\obj\Debug\netcoreapp2.2\lambda_collection.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\lambda_collection\obj\Debug\netcoreapp2.2\lambda_collection.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\lambda_collection\obj\Debug\netcoreapp2.2\lambda_collection.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\lambda_collection\obj\Debug\netcoreapp2.2\lambda_collection.dll
+C:\Users\Emily\Source\C#\lambda_collection\obj\Debug\netcoreapp2.2\lambda_collection.pdb

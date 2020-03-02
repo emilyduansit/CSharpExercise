@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "create a new string of four copies, taking last four characters from a given string/1.0.0": {
+        "runtime": {
+          "create a new string of four copies, taking last four characters from a given string.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "create a new string of four copies, taking last four characters from a given string/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

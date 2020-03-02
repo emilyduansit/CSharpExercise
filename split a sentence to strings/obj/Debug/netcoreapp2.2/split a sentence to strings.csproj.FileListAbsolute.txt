@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\split a sentence to strings\bin\Debug\netcoreapp2.2\split a sentence to strings.deps.json
+C:\Users\Emily\Source\C#\split a sentence to strings\bin\Debug\netcoreapp2.2\split a sentence to strings.runtimeconfig.json
+C:\Users\Emily\Source\C#\split a sentence to strings\bin\Debug\netcoreapp2.2\split a sentence to strings.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\split a sentence to strings\bin\Debug\netcoreapp2.2\split a sentence to strings.dll
+C:\Users\Emily\Source\C#\split a sentence to strings\bin\Debug\netcoreapp2.2\split a sentence to strings.pdb
+C:\Users\Emily\Source\C#\split a sentence to strings\obj\Debug\netcoreapp2.2\split a sentence to strings.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\split a sentence to strings\obj\Debug\netcoreapp2.2\split a sentence to strings.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\split a sentence to strings\obj\Debug\netcoreapp2.2\split a sentence to strings.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\split a sentence to strings\obj\Debug\netcoreapp2.2\split a sentence to strings.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\split a sentence to strings\obj\Debug\netcoreapp2.2\split a sentence to strings.dll
+C:\Users\Emily\Source\C#\split a sentence to strings\obj\Debug\netcoreapp2.2\split a sentence to strings.pdb

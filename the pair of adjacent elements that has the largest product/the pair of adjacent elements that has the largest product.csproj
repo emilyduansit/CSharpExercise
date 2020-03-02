@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>the_pair_of_adjacent_elements_that_has_the_largest_product</RootNamespace>
+  </PropertyGroup>
+
+</Project>

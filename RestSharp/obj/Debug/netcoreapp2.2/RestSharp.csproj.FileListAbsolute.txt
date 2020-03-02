@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\RestSharp\bin\Debug\netcoreapp2.2\RestSharp.deps.json
+C:\Users\Emily\Source\C#\RestSharp\bin\Debug\netcoreapp2.2\RestSharp.runtimeconfig.json
+C:\Users\Emily\Source\C#\RestSharp\bin\Debug\netcoreapp2.2\RestSharp.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\RestSharp\bin\Debug\netcoreapp2.2\RestSharp.dll
+C:\Users\Emily\Source\C#\RestSharp\bin\Debug\netcoreapp2.2\RestSharp.pdb
+C:\Users\Emily\Source\C#\RestSharp\obj\Debug\netcoreapp2.2\RestSharp.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\RestSharp\obj\Debug\netcoreapp2.2\RestSharp.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\RestSharp\obj\Debug\netcoreapp2.2\RestSharp.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\RestSharp\obj\Debug\netcoreapp2.2\RestSharp.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\RestSharp\obj\Debug\netcoreapp2.2\RestSharp.dll
+C:\Users\Emily\Source\C#\RestSharp\obj\Debug\netcoreapp2.2\RestSharp.pdb

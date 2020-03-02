@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\prime_number\obj\Debug\netcoreapp2.2\prime_number.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\prime_number\obj\Debug\netcoreapp2.2\prime_number.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\prime_number\obj\Debug\netcoreapp2.2\prime_number.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\prime_number\obj\Debug\netcoreapp2.2\prime_number.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\prime_number\bin\Debug\netcoreapp2.2\prime_number.deps.json
+C:\Users\Emily\Source\C#\prime_number\bin\Debug\netcoreapp2.2\prime_number.runtimeconfig.json
+C:\Users\Emily\Source\C#\prime_number\bin\Debug\netcoreapp2.2\prime_number.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\prime_number\bin\Debug\netcoreapp2.2\prime_number.dll
+C:\Users\Emily\Source\C#\prime_number\bin\Debug\netcoreapp2.2\prime_number.pdb
+C:\Users\Emily\Source\C#\prime_number\obj\Debug\netcoreapp2.2\prime_number.dll
+C:\Users\Emily\Source\C#\prime_number\obj\Debug\netcoreapp2.2\prime_number.pdb

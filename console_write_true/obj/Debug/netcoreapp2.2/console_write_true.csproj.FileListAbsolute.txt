@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\console_write_true\bin\Debug\netcoreapp2.2\console_write_true.deps.json
+C:\Users\Emily\Source\C#\console_write_true\bin\Debug\netcoreapp2.2\console_write_true.runtimeconfig.json
+C:\Users\Emily\Source\C#\console_write_true\bin\Debug\netcoreapp2.2\console_write_true.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\console_write_true\bin\Debug\netcoreapp2.2\console_write_true.dll
+C:\Users\Emily\Source\C#\console_write_true\bin\Debug\netcoreapp2.2\console_write_true.pdb
+C:\Users\Emily\Source\C#\console_write_true\obj\Debug\netcoreapp2.2\console_write_true.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\console_write_true\obj\Debug\netcoreapp2.2\console_write_true.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\console_write_true\obj\Debug\netcoreapp2.2\console_write_true.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\console_write_true\obj\Debug\netcoreapp2.2\console_write_true.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\console_write_true\obj\Debug\netcoreapp2.2\console_write_true.dll
+C:\Users\Emily\Source\C#\console_write_true\obj\Debug\netcoreapp2.2\console_write_true.pdb

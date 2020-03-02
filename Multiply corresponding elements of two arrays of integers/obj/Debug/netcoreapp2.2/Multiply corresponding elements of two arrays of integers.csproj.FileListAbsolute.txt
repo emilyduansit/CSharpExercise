@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\bin\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.deps.json
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\bin\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.runtimeconfig.json
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\bin\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\bin\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.dll
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\bin\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.pdb
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\obj\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\obj\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\obj\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\obj\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\obj\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.dll
+C:\Users\Emily\Source\C#\Multiply corresponding elements of two arrays of integers\obj\Debug\netcoreapp2.2\Multiply corresponding elements of two arrays of integers.pdb

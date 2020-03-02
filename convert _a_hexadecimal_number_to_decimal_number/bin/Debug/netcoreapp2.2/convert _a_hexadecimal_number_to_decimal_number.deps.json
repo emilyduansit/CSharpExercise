@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "convert _a_hexadecimal_number_to_decimal_number/1.0.0": {
+        "runtime": {
+          "convert _a_hexadecimal_number_to_decimal_number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "convert _a_hexadecimal_number_to_decimal_number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

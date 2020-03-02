@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\ArraySelectWhere\bin\Debug\netcoreapp2.2\ArraySelectWhere.deps.json
+C:\Users\Emily\Source\C#\ArraySelectWhere\bin\Debug\netcoreapp2.2\ArraySelectWhere.runtimeconfig.json
+C:\Users\Emily\Source\C#\ArraySelectWhere\bin\Debug\netcoreapp2.2\ArraySelectWhere.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\ArraySelectWhere\bin\Debug\netcoreapp2.2\ArraySelectWhere.dll
+C:\Users\Emily\Source\C#\ArraySelectWhere\bin\Debug\netcoreapp2.2\ArraySelectWhere.pdb
+C:\Users\Emily\Source\C#\ArraySelectWhere\obj\Debug\netcoreapp2.2\ArraySelectWhere.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\ArraySelectWhere\obj\Debug\netcoreapp2.2\ArraySelectWhere.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\ArraySelectWhere\obj\Debug\netcoreapp2.2\ArraySelectWhere.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\ArraySelectWhere\obj\Debug\netcoreapp2.2\ArraySelectWhere.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\ArraySelectWhere\obj\Debug\netcoreapp2.2\ArraySelectWhere.dll
+C:\Users\Emily\Source\C#\ArraySelectWhere\obj\Debug\netcoreapp2.2\ArraySelectWhere.pdb

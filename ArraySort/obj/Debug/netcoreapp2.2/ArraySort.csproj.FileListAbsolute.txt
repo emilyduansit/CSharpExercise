@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\ArraySort\bin\Debug\netcoreapp2.2\ArraySort.deps.json
+C:\Users\Emily\Source\C#\ArraySort\bin\Debug\netcoreapp2.2\ArraySort.runtimeconfig.json
+C:\Users\Emily\Source\C#\ArraySort\bin\Debug\netcoreapp2.2\ArraySort.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\ArraySort\bin\Debug\netcoreapp2.2\ArraySort.dll
+C:\Users\Emily\Source\C#\ArraySort\bin\Debug\netcoreapp2.2\ArraySort.pdb
+C:\Users\Emily\Source\C#\ArraySort\obj\Debug\netcoreapp2.2\ArraySort.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\ArraySort\obj\Debug\netcoreapp2.2\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\ArraySort\obj\Debug\netcoreapp2.2\ArraySort.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\ArraySort\obj\Debug\netcoreapp2.2\ArraySort.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\ArraySort\obj\Debug\netcoreapp2.2\ArraySort.dll
+C:\Users\Emily\Source\C#\ArraySort\obj\Debug\netcoreapp2.2\ArraySort.pdb

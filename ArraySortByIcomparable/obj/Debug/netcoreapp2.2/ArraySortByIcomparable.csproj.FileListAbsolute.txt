@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\bin\Debug\netcoreapp2.2\ArraySortByIcomparable.deps.json
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\bin\Debug\netcoreapp2.2\ArraySortByIcomparable.runtimeconfig.json
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\bin\Debug\netcoreapp2.2\ArraySortByIcomparable.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\bin\Debug\netcoreapp2.2\ArraySortByIcomparable.dll
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\bin\Debug\netcoreapp2.2\ArraySortByIcomparable.pdb
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\obj\Debug\netcoreapp2.2\ArraySortByIcomparable.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\obj\Debug\netcoreapp2.2\ArraySortByIcomparable.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\obj\Debug\netcoreapp2.2\ArraySortByIcomparable.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\obj\Debug\netcoreapp2.2\ArraySortByIcomparable.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\obj\Debug\netcoreapp2.2\ArraySortByIcomparable.dll
+C:\Users\Emily\Source\C#\ArraySortByIcomparable\obj\Debug\netcoreapp2.2\ArraySortByIcomparable.pdb

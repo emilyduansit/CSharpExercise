@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\bin\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.deps.json
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\bin\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.runtimeconfig.json
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\bin\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\bin\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.dll
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\bin\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.pdb
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\obj\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\obj\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\obj\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\obj\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\obj\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.dll
+C:\Users\Emily\Source\C#\the pair of adjacent elements that has the largest product\obj\Debug\netcoreapp2.2\the pair of adjacent elements that has the largest product.pdb

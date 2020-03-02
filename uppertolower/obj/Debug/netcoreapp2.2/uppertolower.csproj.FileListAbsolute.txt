@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\uppertolower\bin\Debug\netcoreapp2.2\uppertolower.deps.json
+C:\Users\Emily\Source\C#\uppertolower\bin\Debug\netcoreapp2.2\uppertolower.runtimeconfig.json
+C:\Users\Emily\Source\C#\uppertolower\bin\Debug\netcoreapp2.2\uppertolower.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\uppertolower\bin\Debug\netcoreapp2.2\uppertolower.dll
+C:\Users\Emily\Source\C#\uppertolower\bin\Debug\netcoreapp2.2\uppertolower.pdb
+C:\Users\Emily\Source\C#\uppertolower\obj\Debug\netcoreapp2.2\uppertolower.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\uppertolower\obj\Debug\netcoreapp2.2\uppertolower.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\uppertolower\obj\Debug\netcoreapp2.2\uppertolower.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\uppertolower\obj\Debug\netcoreapp2.2\uppertolower.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\uppertolower\obj\Debug\netcoreapp2.2\uppertolower.dll
+C:\Users\Emily\Source\C#\uppertolower\obj\Debug\netcoreapp2.2\uppertolower.pdb

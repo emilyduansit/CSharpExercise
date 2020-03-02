@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\ASB\obj\Debug\netcoreapp2.2\ASB.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\ASB\obj\Debug\netcoreapp2.2\ASB.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\ASB\obj\Debug\netcoreapp2.2\ASB.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\ASB\obj\Debug\netcoreapp2.2\ASB.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\ASB\bin\Debug\netcoreapp2.2\ASB.deps.json
+C:\Users\Emily\Source\C#\ASB\bin\Debug\netcoreapp2.2\ASB.runtimeconfig.json
+C:\Users\Emily\Source\C#\ASB\bin\Debug\netcoreapp2.2\ASB.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\ASB\bin\Debug\netcoreapp2.2\ASB.dll
+C:\Users\Emily\Source\C#\ASB\bin\Debug\netcoreapp2.2\ASB.pdb
+C:\Users\Emily\Source\C#\ASB\obj\Debug\netcoreapp2.2\ASB.dll
+C:\Users\Emily\Source\C#\ASB\obj\Debug\netcoreapp2.2\ASB.pdb

@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\Matrix element calculation\bin\Debug\netcoreapp2.2\Matrix element calculation.deps.json
+C:\Users\Emily\Source\C#\Matrix element calculation\bin\Debug\netcoreapp2.2\Matrix element calculation.runtimeconfig.json
+C:\Users\Emily\Source\C#\Matrix element calculation\bin\Debug\netcoreapp2.2\Matrix element calculation.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\Matrix element calculation\bin\Debug\netcoreapp2.2\Matrix element calculation.dll
+C:\Users\Emily\Source\C#\Matrix element calculation\bin\Debug\netcoreapp2.2\Matrix element calculation.pdb
+C:\Users\Emily\Source\C#\Matrix element calculation\obj\Debug\netcoreapp2.2\Matrix element calculation.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\Matrix element calculation\obj\Debug\netcoreapp2.2\Matrix element calculation.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\Matrix element calculation\obj\Debug\netcoreapp2.2\Matrix element calculation.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\Matrix element calculation\obj\Debug\netcoreapp2.2\Matrix element calculation.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\Matrix element calculation\obj\Debug\netcoreapp2.2\Matrix element calculation.dll
+C:\Users\Emily\Source\C#\Matrix element calculation\obj\Debug\netcoreapp2.2\Matrix element calculation.pdb

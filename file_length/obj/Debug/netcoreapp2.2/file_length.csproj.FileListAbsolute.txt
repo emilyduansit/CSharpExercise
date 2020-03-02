@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\file_length\bin\Debug\netcoreapp2.2\file_length.deps.json
+C:\Users\Emily\Source\C#\file_length\bin\Debug\netcoreapp2.2\file_length.runtimeconfig.json
+C:\Users\Emily\Source\C#\file_length\bin\Debug\netcoreapp2.2\file_length.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\file_length\bin\Debug\netcoreapp2.2\file_length.dll
+C:\Users\Emily\Source\C#\file_length\bin\Debug\netcoreapp2.2\file_length.pdb
+C:\Users\Emily\Source\C#\file_length\obj\Debug\netcoreapp2.2\file_length.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\file_length\obj\Debug\netcoreapp2.2\file_length.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\file_length\obj\Debug\netcoreapp2.2\file_length.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\file_length\obj\Debug\netcoreapp2.2\file_length.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\file_length\obj\Debug\netcoreapp2.2\file_length.dll
+C:\Users\Emily\Source\C#\file_length\obj\Debug\netcoreapp2.2\file_length.pdb
