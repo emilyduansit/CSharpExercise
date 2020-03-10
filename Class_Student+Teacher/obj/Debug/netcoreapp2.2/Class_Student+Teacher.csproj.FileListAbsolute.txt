@@ -1,0 +1,11 @@
+C:\Users\Emily\Source\C#\Class_Student+Teacher\obj\Debug\netcoreapp2.2\Class_Student+Teacher.csprojAssemblyReference.cache
+C:\Users\Emily\Source\C#\Class_Student+Teacher\obj\Debug\netcoreapp2.2\Class_Student+Teacher.csproj.CoreCompileInputs.cache
+C:\Users\Emily\Source\C#\Class_Student+Teacher\obj\Debug\netcoreapp2.2\Class_Student+Teacher.AssemblyInfoInputs.cache
+C:\Users\Emily\Source\C#\Class_Student+Teacher\obj\Debug\netcoreapp2.2\Class_Student+Teacher.AssemblyInfo.cs
+C:\Users\Emily\Source\C#\Class_Student+Teacher\bin\Debug\netcoreapp2.2\Class_Student+Teacher.deps.json
+C:\Users\Emily\Source\C#\Class_Student+Teacher\bin\Debug\netcoreapp2.2\Class_Student+Teacher.runtimeconfig.json
+C:\Users\Emily\Source\C#\Class_Student+Teacher\bin\Debug\netcoreapp2.2\Class_Student+Teacher.runtimeconfig.dev.json
+C:\Users\Emily\Source\C#\Class_Student+Teacher\bin\Debug\netcoreapp2.2\Class_Student+Teacher.dll
+C:\Users\Emily\Source\C#\Class_Student+Teacher\bin\Debug\netcoreapp2.2\Class_Student+Teacher.pdb
+C:\Users\Emily\Source\C#\Class_Student+Teacher\obj\Debug\netcoreapp2.2\Class_Student+Teacher.dll
+C:\Users\Emily\Source\C#\Class_Student+Teacher\obj\Debug\netcoreapp2.2\Class_Student+Teacher.pdb
